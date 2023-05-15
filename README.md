@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @narendra8088
-- 👀 I’m interested in embeded software
+- 👀 I’m Working frontend Developer
 - 🌱 I’m currently learning embeded software
 - 📫 How to reach me Narendranag8@gmail.com
 
